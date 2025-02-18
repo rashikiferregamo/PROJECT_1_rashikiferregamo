@@ -4,6 +4,8 @@ body {
 h1 {
   color:DarkSlateGrey;
   text-align: left;
-  font-family: Fantasy;
+  font-family:Fantasy;
 }
-
+p {color:DarkSlateGrey;
+   font-family:Fantasy
+  }
