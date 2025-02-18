@@ -1,3 +1,9 @@
 body {
   background-color: wheat;
 }
+h1 {
+  color: DarkSlateGrey;
+  text-align: left;
+  font-family: Kaushan Script;
+}
+
