@@ -1,3 +1,7 @@
 body {
   background-color: wheat;
 }
+p {
+  color: red;
+  text-align: center;
+}
